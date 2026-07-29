@@ -25,4 +25,4 @@
 ### 2. 권한 부여 터미널 로그
 
 > `ls -l` `ls -ld`
-[권한 부여 터미널 로그 Wiki Link]()
+[➡️ 권한 부여 터미널 로그 Wiki Link](https://github.com/codyssey-cowhee/E1-1/wiki/%EA%B6%8C%ED%95%9C-%EC%A1%B0%ED%9A%8C-%EB%B0%8F-%EB%B3%80%EA%B2%BD)
