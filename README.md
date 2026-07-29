@@ -33,4 +33,4 @@
 [➡️ Docker 학습 및 로그 Wiki Link](https://github.com/codyssey-cowhee/E1-1/wiki/Docker)
 
 ### 4. Github
-[➡️ Github 연동 및 VSCode 설정]()
+[➡️ Git 설정 및 GitHub/VSCode 연동](https://github.com/codyssey-cowhee/E1-1/wiki/Git-%EC%84%A4%EC%A0%95-%EB%B0%8F-Github-%EC%97%B0%EB%8F%99)
