@@ -8,13 +8,13 @@
 
 ## ✅ 수행 항목 체크리스트
 - [x] 터미널
-- [ ] 권한
-- [ ] Docker
-- [ ] Dockerfile
-- [ ] 포트
+- [x] 권한
+- [x] Docker
+- [x] Dockerfile
+- [x] 포트
 - [ ] 볼륨
-- [ ] Git
-- [ ] Github
+- [x] Git
+- [x] Github
 
 ## 🔍 검증 방법
 ### 1. 터미널 조작 로그
